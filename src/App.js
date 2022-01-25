@@ -6,7 +6,7 @@ import LeftSide from "./components/LeftSide";
 import About from "./components/About";
 import Works from "./components/Works";
 import Contact from "./components/Contact";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion} from "framer-motion";
 
 function App() {
   return (
