@@ -2,7 +2,7 @@
 
 This is my portfolio that I've created with react. [Click here](https://emreharman.netlify.app/) for Demo. Also this is the preview:
 
-![portfolio-gif](https://github.com/emreharman/portfolio-react/blob/master/src/img/portfolio.gif?raw=true)
+![portfolio-gif]()
 
 ## Available Scripts
 
